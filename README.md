@@ -43,7 +43,7 @@ To create the solid model from given drawing and section the solid model
 
 ## OUTPUT:
 
-[lab-4.2 EDM.pdf](https://github.com/user-attachments/files/22691849/lab-4.2.EDM.pdf)
+<img width="1224" height="927" alt="Screenshot 2025-10-04 104036" src="https://github.com/user-attachments/assets/ebcefc51-807d-4ac7-a14f-1cf063b9a046" />
 
 ## RESULT:
 Thus, the cut section for solid model is created.
